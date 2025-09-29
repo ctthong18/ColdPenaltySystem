@@ -1,0 +1,1 @@
+print("Cold Penalty System")
